@@ -1,0 +1,11 @@
+
+input {
+    height: 60px;
+    padding-left: 20px;
+    width: 100%!important;
+}
+
+button{
+    height: 50px;
+    font-size: 20px;
+}
